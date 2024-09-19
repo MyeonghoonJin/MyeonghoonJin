@@ -1,6 +1,19 @@
 ## 공개 SW 2024-2 핫식스 조 
-<h2>Member</h2>
+<h2>Introduce project (or Preview project)</h2>
 
+<h2>Team Member</h2>
+  <table>
+    <tr>
+      <th scope=col>name</th>
+      <th scope=col>major</th>
+      <th scope=col>E-mail</th>
+    </tr>
+    <tr>
+      <td>진명훈</td>
+      <td>컴퓨터공학과</td>
+      <td>audgns1947@dgu.ac.kr</td>
+    </tr>
+  </table>
 
 <h2>Tech</h2>
 
