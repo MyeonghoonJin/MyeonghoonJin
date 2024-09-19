@@ -2,7 +2,7 @@
 <h2>Project introducing (or Project preview)</h2>
 
 
-## 👨Team Member
+<h2><i class="fa-solid fa-person"></i>Team Member</h2>
   <table>
     <tr>
       <th scope=col>Name</th>
