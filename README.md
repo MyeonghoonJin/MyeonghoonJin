@@ -1,5 +1,5 @@
 ## 공개 SW 2024-2 핫식스 조 
-<h2>Introduce project (or Preview project)</h2>
+<h2>Project introducing (or Project preview)</h2>
 
 <h2>Team Member</h2>
   <table>
