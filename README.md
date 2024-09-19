@@ -1,8 +1,8 @@
 ## 공개 SW 2024-2 핫식스 조 
 <h2>Project introducing (or Project preview)</h2>
 
-## ![image](https://github.com/user-attachments/assets/b3cf3186-69a1-4916-81ec-6bb7a0a035ff)
-Team Member
+![image](https://github.com/user-attachments/assets/b3cf3186-69a1-4916-81ec-6bb7a0a035ff)
+## Team Member
   <table>
     <tr>
       <th scope=col>Name</th>
