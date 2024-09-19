@@ -13,6 +13,26 @@
       <td>컴퓨터공학과</td>
       <td>audgns1947@dgu.ac.kr</td>
     </tr>
+    <tr>
+      <td>000</td>
+      <td>0000</td>
+      <td>0000</td>
+    </tr>
+    <tr>
+      <td>000</td>
+      <td>0000</td>
+      <td>0000</td>
+    </tr>
+    <tr>
+      <td>000</td>
+      <td>0000</td>
+      <td>0000</td>
+    </tr>
+    <tr>
+      <td>000</td>
+      <td>0000</td>
+      <td>0000</td>
+    </tr>
   </table>
 
 <h2>Tech</h2>
