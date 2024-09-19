@@ -1,8 +1,8 @@
 ## 공개 SW 2024-2 핫식스 조 
 <h2>Project introducing (or Project preview)</h2>
 
-
-## <i class="fa-solid fa-person"></i>Team Member
+<i class="fa-solid fa-person"></i>
+## Team Member
   <table>
     <tr>
       <th scope=col>Name</th>
