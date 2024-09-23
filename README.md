@@ -6,4 +6,6 @@
 
 <h2>Projects</h2>
 
-<h2>Tech</h2>
+<h2>Development Stack</h2>
+
+<h2>Github Stats</h2>
