@@ -4,8 +4,8 @@
 
 <h2 align="center">Intro</h2>
 
-<h2>Projects</h2>
+<h2 align="center">Projects</h2>
 
-<h2>Development Stack</h2>
+<h2 align="center">Development Stack</h2>
 
-<h2>Github Stats</h2>
+<h2 align="center">Github Stats</h2>
